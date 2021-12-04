@@ -1,5 +1,5 @@
 class Theater
-
+`
 {
 	String name;
 	String location;

@@ -4,7 +4,7 @@ class BikeRunner
 	{
 		String name="aaa";
 		int price=500000;
-		String models="aaaa";
+		Sttring models="aaaa";
 	
 Bike ref=new Bike(name,price,models);
 System.out.println(ref.name);

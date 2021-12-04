@@ -22,7 +22,8 @@ class Samosa
 	{
 		this(cost,taste);
 		this.size=size;
-		this.ingredients=ingredients;
+		this.ingredients=ingredients;	
+		
 		System.out.println("created using float.blooean,samosasize,string[]");
 	}
 }
