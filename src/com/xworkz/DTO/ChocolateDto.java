@@ -65,7 +65,7 @@ public class ChocolateDto {
 public int hashCode() 
 {
 	// TODO Auto-generated method stub
-	return 5;
+	return 2;
 }
 @Override
 public boolean equals(Object obj) {
